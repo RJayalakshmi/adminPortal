@@ -1,5 +1,6 @@
 ## Task
 Here is the tasks of the test:
+
 (1) Task No. 1:
 Description :
 Setup admin panel on localhost
@@ -16,10 +17,15 @@ When you are on clients.php page, add an interval of 5 seconds that check if the
 
 ## Installation
 STEP 1: Find "db_dump.sql" file and import the db.
-STEP 2: Update your DB credentials(host, DB username, DB password, DB name) on "public_html/config.php"
-STEP 3: Upload the files into your localhost and open the path in browser LOCALHOST_PATH_TILL_ROOT_FOLDER/public_html
+
+STEP 2: Update your DB credentials(host, DB username, DB password, DB name) on "public_html/config.php".
+
+STEP 3: Upload the files into your localhost and open the path in browser LOCALHOST_PATH_TILL_ROOT_FOLDER/public_html.
+
 STEP 4: You can now see login page of admin portal. Give the mentioned credentials(user@gmail.com/Test1234) and click on login button.
-STEP 5: Upon successful login, you are redirected to clients dashboard. where you can add new client by clicking on "Add New Client"
+
+STEP 5: Upon successful login, you are redirected to clients dashboard. where you can add new client by clicking on "Add New Client".
+
 STEP 6: To test the TASK 3, open client dashboard in another tab and add/update/delete client and that will be notified on old client dashboard page.
 
 let me know if you have any questions.
